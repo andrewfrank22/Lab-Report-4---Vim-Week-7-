@@ -15,17 +15,17 @@ For the steps 4-9 from the lab
    
    ![Image](step2.png)
    
-4) Run the tests, demonstrating that they fail
+3) Run the tests, demonstrating that they fail
    First, I need to go to the cloned repository
    
-   ![Image](step3.2.png)
+   ![Image](step3-2.png)
    
    > cd lab7-fork <enter>
 
   Then, to actually run the tests and analyze the results
   > bash test.sh <enter>
   
-   ![Image](step3.1.png)
+   ![Image](step3-1.png)
    
 4) Edit the code file ListExamples.java to fix the failing test (as a reminder, the error in the code is just that index1 is used instead of index2 in the final loop in merge)
    First I open the file with vim
