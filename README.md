@@ -18,7 +18,7 @@ For the steps 4-9 from the lab
 3) Run the tests, demonstrating that they fail
    First, I need to go to the cloned repository
    
-   ![Image](step3-2.png)
+   ![Image](step3.2.png)
    
    > cd lab7-fork <enter>
 
