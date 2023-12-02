@@ -3,7 +3,7 @@ For the steps 4-9 from the lab
 
 1) Log into ieng6
    I type:
-   > ssh cs15lfa23bv@ieng6.ucsd.edu <enter>
+   ''' ssh cs15lfa23bv@ieng6.ucsd.edu <enter>
    
   ![Image](step1.png)
   
