@@ -26,7 +26,7 @@ For the steps 4-9 from the lab
 
   Then, to actually run the tests and analyze the results
   
-``` bash <space> test.sh <enter>
+``` bash <space> test.sh <enter> ```
   
    ![Image](step3-1.png)
    
