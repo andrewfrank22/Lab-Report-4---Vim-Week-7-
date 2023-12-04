@@ -10,13 +10,14 @@ For the steps 4-9 from the lab
   
 2) Clone your fork of the repository from your Github account (using the SSH URL)
     I type:
+   
 ``` git <space> clone <space> git@github.com:andrewfrank22/lab7-fork.git <enter> ```
    
    This works only after setting up SSH keys for my ieng6 account in the terminal (as stated in the steps of the lab)
    
    ![Image](step2.png)
    
-3) Run the tests, demonstrating that they fail
+4) Run the tests, demonstrating that they fail
    First, I need to go to the cloned repository
    
    ![Image](step3.2.png)
