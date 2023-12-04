@@ -42,7 +42,7 @@ For the steps 4-9 from the lab
 ``` <esc> ```
 Finally, I type
 
-``` :wq ```
+``` :wq <enter> ```
 
  to save my edits and exit vim. 
 
